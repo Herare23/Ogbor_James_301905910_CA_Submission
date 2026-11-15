@@ -1,7 +1,13 @@
-# James Ogbor — MIT 8103
+# Fiber Repair Dispatch Tracker
 
-Student ID: 301905910
+James Ogbor · Student ID 301905910
 
-Fiber Repair Dispatch Tracker
+The portfolio uses fictional records for Fiber Repair Dispatch Tracker.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Ogbor_James_301905910_FinalSummary.md) · [PDF](Ogbor_James_301905910_FinalSummary.pdf)
